@@ -1,0 +1,13 @@
+{
+ "name": "recent",
+ "version": "1",
+ "license": "MIT",
+ "access": "open-source",
+ "class": "local",
+ "homepage": "https://github.com/breadcrumbs-agency/memory-bench/tree/master/systems/recent",
+ "about": "Floor: no search. The newest turns first, as a chat window keeps them. It keeps the turns in memory, not on disk.",
+ "models": [],
+ "budget_aware": false,
+ "tuned_on": [],
+ "publication": null
+}

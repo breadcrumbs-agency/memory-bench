@@ -1,0 +1,1 @@
+breadcrumbs @ git+https://github.com/breadcrumbs-agency/hermes-breadcrumb-plugin@v0.4.1

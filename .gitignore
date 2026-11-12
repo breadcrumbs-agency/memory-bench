@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+# runs that are not for publication (licensed systems without a grant, trials)
+results/private/

@@ -1,0 +1,14 @@
+{
+ "name": "breadcrumbs",
+ "version": "0.4.1",
+ "license": "MIT",
+ "access": "open-source",
+ "class": "local",
+ "homepage": "https://github.com/breadcrumbs-agency/hermes-breadcrumb-plugin",
+ "install": "pip install -r systems/breadcrumbs/requirements.txt",
+ "about": "Content-addressed crumb store and FTS5 index (Porter stemmer), search with dialogue-neighbor smoothing at the shipped weight 0.3. No model.",
+ "models": [],
+ "budget_aware": false,
+ "tuned_on": ["locomo: the neighbor weight 0.3 was chosen on LoCoMo (0, 0.15, 0.3, 0.5 and 0.8 were tried)"],
+ "publication": null
+}
